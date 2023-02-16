@@ -1,0 +1,69 @@
+*{
+    font-family: sans-serif;
+}
+.connect-wallet{
+    /* border: 1px solid; */
+    padding: 4px;
+    width: 320px;
+    position: relative;
+    border-radius: 4px;
+    box-shadow: 5px 5px 15px gray;
+}
+.connect-wallet .heading{
+    display: inline-block;
+    margin: 10px 10px;
+    font-size: 24px;
+    color: rgb(99, 98, 98);
+}
+.connect-wallet .cross{
+    margin-left: 20px;
+    font-size: 40px;
+    position: absolute;
+    right: 10px;
+    color: rgb(99, 98, 98);
+}
+.block-ele{
+    display: block;
+}
+.btn-style{
+    background: none;
+    border: 1px solid rgb(86, 211, 211);
+    border-radius: 20px;
+    outline: none;
+    width: 90%;
+    padding: 8px;
+    margin: 15px auto;
+    font-size: 16px;
+    color: gray;
+}
+.wallet-option input{
+    text-align: left;
+}
+.wallet-option span{
+    margin-left: 20px;
+}
+.wallet-option .text{
+    font-size: 13px;
+    color: gray;
+}
+.wallet-option .info{
+    margin-left: 2px;
+}
+.wallet-option .input{
+    width: 85%;
+    font-size: 12px;
+}
+.wallet-option .track-btn{
+    padding: 5px;
+    font-size: 12px;
+    width: 25%;
+    text-align: center;
+}
+.para{
+    font-size: 12px;
+    width: 90%;
+    margin: auto;
+}
+.para .para1{
+    text-align: center;
+}

@@ -1,0 +1,53 @@
+*{
+    font-family: sans-serif;
+}
+.select-market{
+    /* border: 1px solid; */
+    width: 240px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+    padding: 4px;
+}
+.select-market h2{
+    text-align: center;
+    color: rgb(99, 98, 98);
+}
+.btns{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    padding: 6px;
+    width: 100px;
+    border-radius: 20px;
+    border: 1px solid rgb(82, 164, 223);
+    background: #fff;
+    color: rgb(99, 98, 98);
+}
+.btn:hover{
+    background: rgb(72, 10, 100);
+    color: #fff;
+}
+.list li{
+    list-style: none;
+    font-size: 14px;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: rgb(99, 98, 98);
+    display: inline-block;
+}
+
+.list-item{
+    /* border: 1px solid; */
+    margin-left: -30px;
+    margin-bottom: 10px;
+}
+
+.list .circle{
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+    background-color: gray;
+    border-radius: 50%;
+    vertical-align: middle;
+}
